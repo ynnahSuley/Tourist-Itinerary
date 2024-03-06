@@ -1041,8 +1041,6 @@ int getIntInput() {
 
 
 
-
-
 // Main function
 int main() {
     struct Location* locations = NULL;
@@ -1228,3 +1226,5 @@ int main() {
 
     return 0;
 }
+
+
